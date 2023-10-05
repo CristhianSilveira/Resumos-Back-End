@@ -1,4 +1,4 @@
 # Resumos
 Seja bem vindo ao meu repositório de resumos.
 
-Espero que goste!
+Espero que gostem!
